@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Shift Square<br><br>👯 I’m looking to collaborate on anything<br><br>💬 Ask me about React<br><br>📫Reach me on alendarov92@gmail.com
+🔭 I’m currently working on small REACT projects<br><br>👯 I’m looking to collaborate on anything<br><br>💬 Ask me about React<br><br>📫Reach me on alendarov92@gmail.com
 
 
 ## 🌐 Socials:
